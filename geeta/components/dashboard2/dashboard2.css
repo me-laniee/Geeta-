@@ -1,0 +1,57 @@
+.h2{
+    font-size:4rem;
+    margin-top: 20%;
+
+
+}
+
+.p1{
+    font-size: 1.8rem;
+    margin-top: 30%;
+    padding: 0 3rem;
+    display: flex;
+    text-align: center;
+    
+}
+
+.p2{
+    font-size: 1.2rem;
+    text-align: center;
+    margin-top: 10%;
+
+}
+
+.log-in{
+    border: 2px solid black;
+    width: 222px;
+    height: 60px;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20%;
+
+}
+
+.register-Btn{
+    color: white;
+    width: 230px;
+    height: 60px;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #6342E8;
+    margin-top: 5%;
+
+}
+
+.or-Span{
+    margin-top: 5%;
+    font-size: 1.5rem;
+
+}
+
+.ocultar{
+    display: none;
+}

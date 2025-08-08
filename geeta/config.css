@@ -4,8 +4,15 @@
     box-sizing: border-box;
 }
 
-html{
-    max-width: 500px;
-    margin: auto;
+html {
+    max-width: 100%; 
+    margin: 0 auto;
     font-family: monospace;
+}
+
+body {
+    width: 100%;
+    max-width: 430px;
+    margin: 0 auto;
+
 }
